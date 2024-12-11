@@ -14,6 +14,18 @@ A C++ application that simulates a taxi routing and management system using **va
 
 ---
 
+## Screenshots
+- Location Input Window
+  <div align="center">
+  <img src="location_input_window.png" align="center" alt="Mohak's Calculator" style="width:40%;">
+  </div>
+- Route Visualization Window
+  <div align="center">
+  <img src="route_visualization_window.png" align="center" alt="Mohak's Calculator" style="width:80%;">
+  </div>
+
+---
+
 ## Dependencies
 
 - wxWidgets (GUI framework)
